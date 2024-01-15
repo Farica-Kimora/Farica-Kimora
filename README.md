@@ -10,5 +10,4 @@
             alt="Top Languages">
     </a>
 </div>
-### ☆☥ 𓂀ॐ
 
