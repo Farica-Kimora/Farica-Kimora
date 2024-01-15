@@ -5,5 +5,12 @@
   <img alt="Python" src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=black&color=white"/>
 </div>
 
+<div align="center">
+    <a href="https://github.com/farica-kimora/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farica-Kimora&layout=pie"
+            alt="Top Languages">
+    </a>
+</div>
+
 ### ☆☥ 𓂀ॐ
 
