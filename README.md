@@ -8,7 +8,7 @@
 </div>
 <div align="center">
     <a href="https://github.com/farica-kimora/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farica-Kimora"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farica-Kimora&layout=pie&langs_count=8"
             alt="Top Languages">
     </a>
 </div>
