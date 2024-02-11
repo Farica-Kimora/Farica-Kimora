@@ -15,12 +15,12 @@
 <div align="center">
 <a href="https://cursedprograms.github.io/book-template/" target="_blank" align="center">
     <img src="https://github.com/SynthWomb/SynthWomb/blob/main/logos/SynthWomb05.png"
-        alt="Chapters"  style="width:60px;"/>
+        alt="Chapters"  style="width:150px;"/>
 </a>
  <br>
  <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
-        alt="CursedEntertainment Logo"  style="width:60px;"/>
+        alt="CursedEntertainment Logo"  style="width:150px;"/>
 </a>
 </div>
 
