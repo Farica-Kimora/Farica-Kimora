@@ -17,10 +17,10 @@
  <br>
 <div align="center">
 <a href="https://github.com/SynthWomb" target="_blank" align="center">
-    <img src="https://github.com/SynthWomb/SynthWomb/blob/main/logos/SynthWomb05.png"
-        alt="Chapters"   style="width:200px;"/>
+    <img src="https://github.com/SynthWomb/SynthWomb/blob/main/logos/synthwomb07.png"
+        alt="SynthWomb">
 </a>
- </div>
+</div>
  <br>
  <div align="center">
  <a href="https://cursed-entertainment.itch.io/" target="_blank">
