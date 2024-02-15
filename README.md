@@ -10,7 +10,7 @@
  <br>
 <div align="center">
     <a href="https://github.com/farica-kimora/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farica-Kimora&layout=compact&langs_count=12"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farica-Kimora&CursedPrograms&layout=compact&langs_count=12"
             alt="Top Languages">
     </a>
 </div>
