@@ -15,6 +15,7 @@
  <p><a href="https://faricakimora.netlify.app/"><b>faricakimora.netlify.app</b></a></p>
  <p>
   <a href="https://www.instagram.com/farica.kimora/">Instagram</a> ·
+  <a href="https://gamejolt.com/@FaricaKimora">GameJolt</a> ·
   <a href="https://soundcloud.com/farica-kimora">SoundCloud</a> ·
   <a href="https://cursedprograms.github.io/cursedentertainment/pages/artists/farica/farica-music.html">Music on Cursed Entertainment</a>
  </p>
