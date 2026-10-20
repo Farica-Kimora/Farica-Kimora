@@ -1,12 +1,6 @@
-<div align="center"> <h1>Farica☆Kimora</h1>
- <p><i>Actress · Artist · Performer</i></p>
- <p><a href="https://faricakimora.netlify.app/"><b>faricakimora.netlify.app</b></a></p>
- <p>
-  <a href="https://www.instagram.com/farica.kimora/">Instagram</a> ·
-  <a href="https://soundcloud.com/farica-kimora">SoundCloud</a> ·
-  <a href="https://cursedprograms.github.io/cursedentertainment/pages/artists/farica/farica-music.html">Music on Cursed Entertainment</a>
- </p>
- </div>
+<div align="center">
+  <img src="FK%20logo.png" alt="FK logo" width="420"/>
+</div>
   <br>
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=white"/>
@@ -35,4 +29,13 @@
         alt="CursedEntertainment Logo"  style="width:250px;"/>
 </a>
 </div>
-
+<br>
+<div align="center"> <h1>Farica☆Kimora</h1>
+ <p><i>Actress · Artist · Performer</i></p>
+ <p><a href="https://faricakimora.netlify.app/"><b>faricakimora.netlify.app</b></a></p>
+ <p>
+  <a href="https://www.instagram.com/farica.kimora/">Instagram</a> ·
+  <a href="https://soundcloud.com/farica-kimora">SoundCloud</a> ·
+  <a href="https://cursedprograms.github.io/cursedentertainment/pages/artists/farica/farica-music.html">Music on Cursed Entertainment</a>
+ </p>
+ </div>
