@@ -1,6 +1,10 @@
 <div align="center">
   <img src="FK%20logo.png" alt="FK logo" width="420"/>
 </div>
+<div align="center">
+  <img src="Kimmie%20(1).png" alt="Farica Kimora" width="49%"/>
+  <img src="Kimmie%20(2).png" alt="Farica Kimora" width="49%"/>
+</div>
   <br>
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=white"/>
