@@ -1,4 +1,11 @@
 <div align="center"> <h1>Farica☆Kimora</h1>
+ <p><i>Actress · Artist · Performer</i></p>
+ <p><a href="https://faricakimora.netlify.app/"><b>faricakimora.netlify.app</b></a></p>
+ <p>
+  <a href="https://www.instagram.com/farica.kimora/">Instagram</a> ·
+  <a href="https://soundcloud.com/farica-kimora">SoundCloud</a> ·
+  <a href="https://cursedprograms.github.io/cursedentertainment/pages/artists/farica/farica-music.html">Music on Cursed Entertainment</a>
+ </p>
  </div>
   <br>
 <div align="center">
@@ -17,7 +24,7 @@
 <br>
 <div align="center">
 <a href="https://github.com/SynthWomb" target="_blank" align="center">
-    <img src="https://github.com/SynthWomb/synth.womb/blob/main/logos/synthwomb07.png"
+    <img src="https://github.com/SynthWomb/synth.womb/raw/main/logos/synthwomb07.png"
         alt="SynthWomb" style="width:200px;"/>
 </a>
 </div>
